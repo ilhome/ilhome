@@ -106,12 +106,3 @@
 * Contribute to open-source projects
 
 ---
-
-## 📫 Connect With Me
-
-* LinkedIn: *(Add your LinkedIn profile URL)*
-* Email: *(Add your professional email)*
-
----
-
-> "Continuous learning and consistent practice create extraordinary results."
