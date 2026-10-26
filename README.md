@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ilkhomjon Abdubannoev
 
-🎓 Master's Student | Aspiring Data Scientist & AI Engineer
+🎓 Master's Student | Aspiring Data | AI Engineer
 📍 Seoul, South Korea
 
 ## 🚀 About Me
